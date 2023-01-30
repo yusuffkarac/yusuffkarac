@@ -1,5 +1,5 @@
 # 👨🏼‍💻 About Me:
-🔭 I’m currently working on Web Development and Python<br>🤝 I’m looking to internship offer from EU or Turkey<br>🌱 I’m currently learning Django and React<br>💬 Ask me about Web and Python<br>
+🔭 I’m currently working on Web Development and Python<br>🌱 I’m currently learning Django and React<br>💬 Ask me about Web and Python<br>
 
 
 ## 🌐 Socials:
